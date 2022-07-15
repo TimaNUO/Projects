@@ -1,2 +1,4 @@
 # gitTest
 Изучаю git
+
+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
