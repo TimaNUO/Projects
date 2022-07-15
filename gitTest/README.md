@@ -1,0 +1,2 @@
+# gitTest
+Изучаю git
